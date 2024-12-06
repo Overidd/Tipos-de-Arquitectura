@@ -22,7 +22,7 @@ Cada sitio web o aplicaciones como Facebook, Instagram, Twitter, etc. utilizan l
 
 ### 2. Peer-to-peer (P2P)
 
-Una red P2P es una red de computadoras en la que cada computadora actúa como un nodo que comparte recursos con otros nodos de la red. Los nodos actúan como clientes y servidores al mismo tiempo. Esta es la base de la tecnología blockchain.
+Una red P2P es una red de computadoras en la que cada computadora actúa como un nodo que comparte recursos con otros nodos de la red, en otras palabras actua como cliente y servidor al mismo tiempo. Los nodos actúan como clientes y servidores al mismo tiempo. Esta es la base de la tecnología blockchain.
 
 ![Peer-to-peer](./assets/P2P.png)
 
